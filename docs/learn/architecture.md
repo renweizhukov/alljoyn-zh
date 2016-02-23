@@ -82,7 +82,7 @@ AllJoyn 服务架构实现了一套通用服务，例如新设备管理、通知
 AllJoyn 架构提供了两种变种：
 
 * 标准版。适用于非嵌入式设备，如 Android、iOS、Linux。
-* 精简版。适用于资源受限的嵌入式设备，如 Arduino、ThreadX、内存受限的Linux。
+* 精简版。适用于资源受限的嵌入式设备，如 Arduino、ThreadX、内存受限的 Linux。
 
 ![alljoyn-standard-and-thin][alljoyn-standard-and-thin]
 
@@ -94,7 +94,7 @@ AllJoyn 架构提供了两种变种：
 
 应用程序可以同时使用服务架构与核心 API。
 
-[了解关于事件和动作（Events and Actions）的更多信息][events-and-actions]》。
+[了解关于事件和动作（Events and Actions）的更多信息][events-and-actions]。
 
 [apps-and-routers]: /files/learn/apps-and-routers.png
 
